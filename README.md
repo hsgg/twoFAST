@@ -1,11 +1,5 @@
-2-FAST
-======
+# 2-FAST
 
-The 2-FAST (*2-point function from Fast and Accurate Spherical bessel
-Transform*) algorithm is implemented here in the [Julia](https://julialang.org)
-programming language.
-
-The algorithm is documented in the paper [Fast and Accurate Computation of
-Projected Two-point functions](https://arxiv.org/abs/1709.02401).
-
-Minimal examples are given in the file `Julia/twofast_example.jl`.
+This has moved to a proper Julia package
+[TwoFAST.jl](https://github.com/hsgg/TwoFAST.jl). Bindings for other languages
+are also there, as far as they have been developed.
